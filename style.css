@@ -1,11 +1,19 @@
-body {
-    background-color: aqua;
+h1 {
+    color: rgb(73, 1, 139);
+    font-size: 50px;
+    font-weight: 700;
 }
 
-.myclass {
+figcaption {
+    color: rebeccapurple;
+    font-size: 15px;
+}
+
+h2 {
+    color: rgb(73, 1, 139);
     font-size: 35px;
 }
 
-#myid {
-    color: blueviolet;
+#subjects {
+    font-size: 20px;
 }
